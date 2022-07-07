@@ -26,11 +26,12 @@ header {
     background: hsla(218, 17%, 62%, 1);
     height: 37.5rem;
     margin-bottom: 6.3rem;
+    padding-top: 3.2rem;
 }
 
 
 .icone {
-    margin: 3.2rem auto ;
+    margin: 0 auto 3.2rem;
     display: block;
 }
 
@@ -232,7 +233,7 @@ footer {
     
     .text-wrapper {
         height: auto;
-        padding: 50px;
+        padding: 50px ;
         background-color:hsla(218, 17%, 62%, 1);
     }
     
